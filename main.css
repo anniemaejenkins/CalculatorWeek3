@@ -1,0 +1,41 @@
+*{
+  box-sizing: border-box;
+}
+
+table{
+  background-color: rgb(100, 178, 85);
+  width: 400px;
+  height: 500px;
+  text-align: center;
+  border-collapse: collapse;
+  color: rgb(248, 250, 247);
+
+}
+
+td{
+  border: 1px solid rgb(135, 197, 122);
+}
+
+.divide{
+  color: rgb(77, 115, 68);
+  background-color: rgb(130, 194, 118);
+  border: 1px solid rgb(169, 215, 163);
+}
+
+.multiply{
+  color: rgb(77, 115, 68);
+  background-color: rgb(130, 194, 118);
+  border: 1px solid rgb(169, 215, 163);
+}
+
+.subtract{
+  color: rgb(77, 115, 68);
+  background-color: rgb(130, 194, 118);
+  border: 1px solid rgb(169, 215, 163);
+}
+
+.add{
+  color: rgb(77, 115, 68);
+  background-color: rgb(130, 194, 118);
+  border: 1px solid rgb(169, 215, 163);
+}
